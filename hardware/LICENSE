@@ -1,0 +1,65 @@
+CERN OPEN HARDWARE LICENCE v2 - STRONGLY RECIPROCAL
+
+This CERN Open Hardware Licence ("Licence") is copyright © CERN 2020. Use of the Licence
+per the conditions below does not grant you any rights to use CERN's name, logo, or
+trademarks for publicity or other purposes.
+
+You may use this Licence if you wish to license your hardware design documentation under its terms.
+
+1. Definitions
+
+In this Licence, the following terms have the following meanings:
+
+"Licensee" means any person exercising rights under this Licence.
+
+"You" means the Licensee, or a third party acting on their behalf.
+
+"Documentation" means schematic diagrams, designs, circuit or board layouts, mechanical drawings,
+CAD files, and other materials describing the hardware design licensed under this Licence.
+
+"Product" means any device manufactured using the Documentation or modified Documentation.
+
+"Source" means the preferred format for making modifications to the Documentation.
+
+"Modified Documentation" means any modifications made to the Documentation, including 
+without limitation corrections, additions, or deletions.
+
+2. Grant of Licence
+
+CERN grants You a world-wide, royalty-free, non-exclusive, sublicensable licence to use, reproduce,
+modify, and distribute the Documentation and Products under the terms of this Licence.
+
+You must:
+
+- provide a copy of this Licence with the Documentation or Product;
+- retain copyright notices;
+- make the Source of any Modified Documentation available under this Licence.
+
+3. Reciprocal Obligations
+
+If You distribute or manufacture Products using Modified Documentation, You must:
+
+- make the Modified Documentation available under this Licence;
+- provide information on how to access the Modified Documentation;
+- include notices stating that the Product is based on Modified Documentation and that it is
+  licensed under this Licence.
+
+4. No Warranty
+
+The Documentation is provided “as is” and without warranty of any kind, express or implied.
+You are responsible for ensuring that your use of the Documentation is safe and compliant
+with applicable laws.
+
+5. Liability
+
+CERN shall not be liable for any damages arising from the use of the Documentation or Products.
+
+6. General
+
+This Licence shall be governed by the laws of Switzerland.
+Any dispute arising from this Licence shall be resolved by the courts of Geneva.
+
+---
+
+You can find the latest version of this Licence and more information at:
+https://cern-ohl.web.cern.ch/

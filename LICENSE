@@ -1,0 +1,16 @@
+This repository contains both hardware and software components.
+Each is licensed under different terms:
+
+- firmware/ : Licensed under the MIT License
+- hardware/ : Licensed under the CERN Open Hardware License v2 - Strongly Reciprocal (CERN-OHL-S)
+
+Please refer to the LICENSE file in each subdirectory for details.
+
+
+このリポジトリには、ソフトウェア（ファームウェア）とハードウェア（筐体・回路）を含みます。
+それぞれ異なるライセンスで公開されています：
+
+- firmware/：MITライセンス（自由な使用・改変・頒布が可能）
+- hardware/：CERN Open Hardware License v2 Strongly Reciprocal（回路や筐体の改変・再頒布時にライセンス継承が必要）
+
+詳細は各ディレクトリのLICENSEをご確認ください。
